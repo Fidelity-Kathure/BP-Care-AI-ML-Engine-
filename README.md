@@ -13,6 +13,14 @@ license: mit
 
 # 🩺 BP Care AI Engine
 
+## 🌐 Live Application
+
+**Try the deployed system here:**
+
+👉 [BP Care AI Engine on Hugging Face Spaces](https://huggingface.co/spaces/Bloomy-3Springs/BP-care-Ai-engine)
+
+---
+
 BPCare AI is an advanced predictive clinical decision support system designed to assess, monitor, and explain cardiovascular health risks through machine learning and explainable artificial intelligence (XAI).
 
 The platform integrates physiological measurements, lifestyle behaviors, and engineered health indicators into a multimodal prediction pipeline capable of generating personalized cardiovascular risk assessments. Unlike traditional scorecard-based systems, BPCare AI utilizes ensemble machine learning models to capture complex non-linear interactions between health variables and lifestyle triggers.
